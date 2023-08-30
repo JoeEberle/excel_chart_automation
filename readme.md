@@ -15,6 +15,8 @@ and use a configuration file.
 - Hides sensitive codes or API keys .
 - Establishes consistency acorss projects
 
+![code Logo](excel_chart_automation.png)
+
 ## Notebook Features
 
 - Self Documenting 
