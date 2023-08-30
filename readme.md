@@ -4,16 +4,15 @@
 
 ## Description
 
-Welcome to the **excel chart automation** repository! This project demonstrates how to a configuration parser to create, maintain,
-and use a configuration file. 
+Welcome to the **excel chart automation** repository! This erpo demonstrates how to add cool charts to excel - automatically
 
 ![code Logo](code.png)
 
 ## Features
 
 - Easily Extensible.
-- Hides sensitive codes or API keys .
-- Establishes consistency acorss projects
+- Let pythonm do the boding stuff 
+- Works with any type of visualization 
 
 ![code Logo](excel_chart_automation.png)
 
